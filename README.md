@@ -1,4 +1,4 @@
-# 📏 End-to-End-SOCR-Height-Weight-Prediction-Systemp
+# 📏 End-to-End-SOCR-Height-Weight-Prediction-System
 
 An end-to-end Machine Learning regression project that predicts human weight based on height using a supervised learning model. The model is deployed as an interactive Streamlit web application, enabling real-time predictions through a clean and intuitive interface.
 
